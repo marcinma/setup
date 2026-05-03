@@ -1,0 +1,1 @@
+/home/maque/.config/omarchy/current/theme/neovim.lua
